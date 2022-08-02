@@ -2,28 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cc2d3ea-b60f-40a4-a32d-cec83fac7335" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-goal/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-goal/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/selecting-a-branch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Chart/Chart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Chart/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Chart/ChartBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Chart/ChartBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Expenses/ExpenseDate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Expenses/ExpenseDate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Expenses/ExpenseItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Expenses/ExpenseItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Expenses/Expenses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Expenses/Expenses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Expenses/ExpensesChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Expenses/ExpensesFilter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Expenses/ExpensesFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Expenses/ExpensesList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/Expenses/ExpensesList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/NewExpense/ExpenseForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/NewExpense/ExpenseForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/NewExpense/NewExpense.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/NewExpense/NewExpense.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/UI/Card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/components/UI/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-basics/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="true" />
@@ -53,7 +81,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jangsubin/Documents/GitHub/Udemy/React/react-course&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jangsubin/Documents/GitHub/Udemy/react-course/course-goal&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -62,13 +91,19 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/jangsubin/Documents/GitHub/Udemy/React/react-course/node_modules/prettier&quot;,
     &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/course-goal" />
+      <recent name="$PROJECT_DIR$/react-basics" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/course-goal" />
+      <recent name="$PROJECT_DIR$/react-basics" />
       <recent name="$PROJECT_DIR$/src/components" />
     </key>
   </component>
@@ -88,6 +123,21 @@
       <workItem from="1655960090401" duration="122000" />
       <workItem from="1655960230021" duration="5330000" />
       <workItem from="1655967353100" duration="3000" />
+      <workItem from="1658106277299" duration="12219000" />
+      <workItem from="1658181522420" duration="6069000" />
+      <workItem from="1658268063560" duration="598000" />
+      <workItem from="1658354666667" duration="598000" />
+      <workItem from="1658356206245" duration="607000" />
+      <workItem from="1658446637483" duration="728000" />
+      <workItem from="1658450894979" duration="1196000" />
+      <workItem from="1658700929619" duration="599000" />
+      <workItem from="1658786428524" duration="779000" />
+      <workItem from="1658790595798" duration="7365000" />
+      <workItem from="1658872915819" duration="4952000" />
+      <workItem from="1658959471541" duration="6677000" />
+      <workItem from="1659051550646" duration="2063000" />
+      <workItem from="1659308381206" duration="1795000" />
+      <workItem from="1659394295414" duration="598000" />
     </task>
     <servers />
   </component>
